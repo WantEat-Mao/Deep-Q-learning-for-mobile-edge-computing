@@ -1,5 +1,7 @@
 # Deep-Q-learning-for-mobile-edge-computing
 
+article：Deep Reinforcement Learning for Task Offloading in Mobile Edge Computing Systems
+
 More details can be found at https://ieeexplore.ieee.org/document/9253665
 
 To run the code, please install tensorflow 1.4.0. File train.py is the main code. File fog_env.py contains the code for mobile edge computing environment. File RL_brain.py contains the code for deep reinforcement learning.
